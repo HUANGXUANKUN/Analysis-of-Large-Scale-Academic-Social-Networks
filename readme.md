@@ -4,7 +4,7 @@
 
 This project has provided a comprehensive analysis of the latest academic social networks. The main tasks performed include graph exploratory analysis, research topic analysis, self-citation analysis, community detection and link prediction. 
 
-For detailed summary & implementation, refer to report [here](./Analysis of Large Scale Academic Social Networks.pdf).
+For detailed summary & implementation, refer to report [here](./Final-Report.pdf).
 
 > Source code is provided in HTML for visual convenience. (Support Azure Databrick Import)
 
